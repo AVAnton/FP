@@ -11,9 +11,9 @@ Time series analysis plays important role in various fields including medicine, 
 
 Content:
 
-Data - data for experiments
+We had troubles with github.
+Better use this link: https://drive.google.com/drive/u/0/folders/1yH5252hRK8LluHXI3ZwvN-HY63p2aV2X
 
-project.ipynb- notebook with project, includes data generation/selection, XGBoost's loss customization, experiments
 
 
 
