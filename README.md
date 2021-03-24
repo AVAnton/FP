@@ -11,8 +11,9 @@ Time series analysis plays important role in various fields including medicine, 
 
 Content:
 
-We had troubles with github.
-Better use this link: https://drive.google.com/drive/u/0/folders/1yH5252hRK8LluHXI3ZwvN-HY63p2aV2X
+We had troubles with adding datasets to github.
+
+To download it use this link: https://drive.google.com/drive/u/0/folders/1yH5252hRK8LluHXI3ZwvN-HY63p2aV2X
 
 
 
