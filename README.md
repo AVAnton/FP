@@ -13,7 +13,7 @@ Content:
 
 Data - data for experiments
 
-Notebook - notebook with project, includes data generation/selection, XGBoost's loss customization, experiments
+project.ipynb- notebook with project, includes data generation/selection, XGBoost's loss customization, experiments
 
 
 
